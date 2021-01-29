@@ -13,3 +13,5 @@
 [https://www.codebyamir.com/blog/implement-custom-logic-for-clients-using-strategy-and-factory-design-patterns](https://www.codebyamir.com/blog/implement-custom-logic-for-clients-using-strategy-and-factory-design-patterns)
 
 [https://blog.e-zest.com/design-pattern-combination-strategy-with-factory-method/](https://blog.e-zest.com/design-pattern-combination-strategy-with-factory-method/)
+
+[https://github.com/Dashell/strategy-pattern-dotnetcore](https://github.com/Dashell/strategy-pattern-dotnetcore)

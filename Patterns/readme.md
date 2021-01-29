@@ -13,3 +13,5 @@
 [https://github.com/anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans)
 
 [https://github.com/anupavanm/csharp-design-patterns-for-humans-examples](https://github.com/anupavanm/csharp-design-patterns-for-humans-examples)
+
+[https://github.com/wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food)
